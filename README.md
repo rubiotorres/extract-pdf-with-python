@@ -3,6 +3,6 @@
 
 Bem vind@ 
 
-Esse repositório foi criado para facilitar a extração para iniciantes.
+Esse repositório foi criado para facilitar a extração para iniciantes em python.
 
 
